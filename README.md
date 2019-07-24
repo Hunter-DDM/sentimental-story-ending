@@ -116,8 +116,12 @@ There are three directories for our three proposed methods.
  https://drive.google.com/open?id=1VPopk1F_3e3KkDQ2BcnKSG4KDJHlKCUw
  
  DA_SA is the checkpoint of sentiment analyzer for model "SIC-Seq2Seq + DA"
+ 
  RM_SA is the checkpoint of sentiment analyzer for model "SIC-Seq2Seq + RM"
+ 
  DA_SG is the checkpoint of sentimental generator for model "SIC-Seq2Seq + DA"
+ 
  RM_SG is the checkpoint of sentimental generator for model "SIC-Seq2Seq + RM"
+ 
  RB_SG is the checkpoint of sentimental generator for model "SIC-Seq2Seq + RB"
 
