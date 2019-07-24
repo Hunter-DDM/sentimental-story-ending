@@ -1,0 +1,700 @@
+bobby had a good party .	0.7048042416572571
+he discovered half of his front tooth was missing .	0.49097350239753723
+it was hidden at the bottom of her locker !	0.469824880361557
+it would be a big hit with all his friends .	0.5103064775466919
+she no longer hides snacks underneath her bed .	0.48087096214294434
+he lit it and had a blaze in no time .	0.5415015816688538
+one day her mother surprised her and showed up with a lot of catfish !	0.5903066396713257
+allen thought that maybe his trip to the hospital wasn ' t all too bad .	0.22848206758499146
+of the kids told jerry that he ' s not chinese .	0.5620932579040527
+andrew laughed at his roommate ' s misfortune .	0.4274831712245941
+he knew more about the bible than they did , though .	0.6187566518783569
+joe was so excited when he got to sit in the driver ' s seat !	0.579414427280426
+rod wished he hadn ' t told the joke .	0.3887239098548889
+he quickly swam to the surface when he saw a shark .	0.3477233648300171
+the branch broke and fell on the house .	0.4357448220252991
+andres loved his new position as manager .	0.6314736008644104
+she ran to check on the pizza , and saw it was completely ruined .	0.2793363034725189
+bia decided saltwater was too much for her to handle , after all !	0.42390841245651245
+we enjoyed eating the crabs we caught .	0.6919442415237427
+before i can explain what i said , she left .	0.45082300901412964
+they had so much fun and want to do it again .	0.6297192573547363
+they decided to keep it as a pet .	0.355007529258728
+she decided to use it everyday .	0.467802494764328
+she finally enjoyed her day .	0.6804559826850891
+so far nobody has touched the cup .	0.3868153691291809
+the son was quiet that weekend .	0.5774219036102295
+from that night on , ronald was a fan of octopus .	0.5197018384933472
+she won her first game by scoring the winning goal !	0.7684158682823181
+i bought a mailbox that afternoon .	0.5751788020133972
+luckily he was going to be okay .	0.45260411500930786
+he decided to study harder from then on .	0.372979998588562
+the next morning , he watched the demolition sadly .	0.3504035770893097
+he may not be as mean as he seems .	0.6101945042610168
+adam missed school and promised to pay steve ' s speeding ticket .	0.3746980130672455
+he lay the kindling on the newspaper and lit the fire .	0.5631574988365173
+when his friends flag him , he keeps driving because they are poor .	0.4190523028373718
+we still made it in time to celebrate with everyone .	0.6683103442192078
+my wife was amused by their antics .	0.5047797560691833
+it turns out it was the new puppy his mom got him .	0.6104260087013245
+the bear fell asleep after that .	0.32475197315216064
+bethany reiterated that she didn ' t deserve it .	0.4847593307495117
+i finished third in the race .	0.5318329334259033
+eventually , jon lost the game .	0.4106011986732483
+it was the craziest thing they have ever seen .	0.48393407464027405
+johnny always outran tim and they both had fun playing .	0.6318389177322388
+i am happy with my body .	0.36672043800354004
+john felt fortunate and realized he needed to be more alert .	0.4950678050518036
+tom was disappointed he didn ' t get to see the end .	0.40150412917137146
+kris was frustrated and hung the phone up .	0.410795122385025
+she had to tell the teacher about it .	0.5225458741188049
+she went right to the coat and said it was the cutest thing ever .	0.42581164836883545
+his room was finally clean .	0.5249266624450684
+several minutes later , george didn ' t feel hungry anymore .	0.4442530870437622
+everyone complimented her on her choice in clothing .	0.610549807548523
+daniel won the championship .	0.7296680212020874
+jake got the job .	0.7040548920631409
+cathy was proud that she registered to vote for the first time .	0.6086084246635437
+i didn ' t get any work done .	0.380363792181015
+she took them outside so they could air out .	0.4679451584815979
+jenny bought the cookies .	0.5081962943077087
+the boy made his mom a wonderful picture .	0.7071869373321533
+ruth became sad .	0.2673879563808441
+tim had to deal with the horrible picture all his life .	0.5070309638977051
+he cut his hair short that night .	0.4184829592704773
+barry was highly upset that the pool was closed .	0.4656759202480316
+josh was happy to wake up one morning and see the bonus !	0.7048625349998474
+eventually tom had to call the authorities .	0.5360953211784363
+i said herman was a bit of a buddhist .	0.4336889982223511
+tammy walked very far that day , enjoying the evening .	0.3077413737773895
+tim never bought that detergent again .	0.5388016700744629
+together they figured out a solution .	0.6605581641197205
+david knew he could use his card so that the man could eat also .	0.6102761626243591
+he really enjoyed the relaxing experience .	0.7224248051643372
+jack found out he was having a sister and was not happy .	0.4611673355102539
+one large duck stole the whole loaf .	0.5279269814491272
+he pretended to really like them .	0.4463144540786743
+martin and his friends had a lot of fun at the bar .	0.6376176476478577
+one day i will learn .	0.5499796867370605
+unfortunately his older brother doesn ' t appreciate losing .	0.37218397855758667
+i think she will be going in her cage tomorrow .	0.6940361261367798
+brad gets angry and refuses to play another game .	0.38803404569625854
+now greg has an ice pop .	0.5912716388702393
+try as he might , terry couldn ' t do it , and lost his business .	0.47228753566741943
+all in all , dot had an amazing day at the dog park .	0.5839707255363464
+eventually , he killed himself .	0.44936490058898926
+thankfully though , i knew someone who could fix it .	0.48292914032936096
+i ' ve always done what i wanted so i bought a truck .	0.42514684796333313
+ed ended up being an hour late to work !	0.44795316457748413
+john decided to try again and work passed the crows .	0.5126544237136841
+there was popcorn all over the place .	0.48887360095977783
+rene then played games .	0.45509573817253113
+she had to go back and bring the second half home after that .	0.5068003535270691
+it therefore made lily late .	0.5185739994049072
+brent successfully added skipping rope to his routine .	0.677029013633728
+tim loved watching movies with his new blu - ray player .	0.7438461184501648
+unfortunately , trevor could not jump and went home dejected .	0.4100050926208496
+that friend was someone my grandmother knew .	0.4717949330806732
+from that day on , he never touched another cigarette .	0.5054360032081604
+the next morning i had a sore leg .	0.31778568029403687
+they had a huge fight and weren ' t friends anymore !	0.7177011966705322
+he misses dale and dale leaves the bar avoiding death !	0.47021910548210144
+watch for me as the new over the top character .	0.506147563457489
+he spent the next few nights outside during each passage , marveling .	0.37853628396987915
+doug claimed his prize and decided to play again .	0.4544330835342407
+girls ' night became pizza night !	0.5511295795440674
+he gave his wife and kids a better life than he ever had growing up .	0.6804748773574829
+after taking the medication for two weeks , ted ' s infection cleared up .	0.5154331922531128
+the kids were grounded for a month .	0.596712589263916
+he got it several days later and enjoyed it .	0.678336501121521
+i was furious and snatched it away from him .	0.48899906873703003
+and i miss those times when everything felt alive again .	0.6804279685020447
+it was one of our best vacations ever !	0.8349288702011108
+they valued their online friendships a lot .	0.41601866483688354
+cathy loved the ice sculpture so much , and so did her guests .	0.5298393964767456
+he was very happy with that amount .	0.6839967966079712
+now deb has a successful chicken ranch and pays all her bills .	0.6155405044555664
+he said to sleep in the living room because the cat is sad .	0.2963164150714874
+maggie and her dog are best friends .	0.6209017634391785
+jerry new it would be a great job for him .	0.642369270324707
+but he didn ' t find a pet .	0.39487966895103455
+matthew hated brad .	0.35491201281547546
+when shot happened , lulu screamed .	0.45088642835617065
+they decided that the deer was smarter than them and they went home .	0.35995805263519287
+tom hung out with the fat friend to help .	0.42361631989479065
+i was told my father had died .	0.31858596205711365
+it was a crystal skull vodka bottle , joe ' s favorite .	0.41545626521110535
+she found gwen playing with toys in her closet .	0.3833044171333313
+her scores arrived a few weeks later , and she did very well .	0.680061399936676
+sandra got suspended for one week .	0.503710150718689
+tim decided he loved his dad anyway .	0.5492387413978577
+she had taken her brothers things to school .	0.5608339309692383
+he couldn ' t understand why his dad liked it so much .	0.5652984976768494
+his teacher looked please when he turned it in .	0.6026768684387207
+the cow ate the grass .	0.39294007420539856
+cedric is banned from all movie theaters .	0.4471360146999359
+by the time the carnival closed , she had ridden every ride twice .	0.6235079765319824
+jim eventually got braces to fix his teeth .	0.5350430011749268
+we decided to dehydrate our figs so we could enjoy them later .	0.5535206198692322
+after awhile he got over his ego and they became close again .	0.629249632358551
+a firefighter walked over to the tank and turned off the top valve .	0.6640723347663879
+sun jan had lost ten pounds and was so happy !	0.6651504635810852
+now tim doesn ' t have a car to drive .	0.6751651763916016
+joe put the paper in the printer .	0.5050028562545776
+but they were so energetic he ended up running inside his house .	0.6243559718132019
+the cookout was a great success .	0.7389514446258545
+the homeowner thought it was trendy so he went with it .	0.5571882128715515
+when the event was over , kyle placed third .	0.5162450075149536
+i decided to return the tent and get a new one .	0.5648131370544434
+suddenly sarah started loosing the weight !	0.5068144202232361
+dan could not wait to put the new sheets on his day bed .	0.6015581488609314
+fred was simply stuck in bad traffic and it was impossible to come .	0.26130515336990356
+dan let his son off easy .	0.5052721500396729
+edward was also able to save and buy other things as well .	0.4812314510345459
+adam was dreading the holidays now .	0.49902263283729553
+john suffocated as the weights crushed his chest .	0.4858558475971222
+the next day julie found out she made the cheer squad .	0.3527411222457886
+i was able to use the computer .	0.5461549758911133
+i wanted to walk away from her , but didn ' t have the strength .	0.5735540390014648
+tim was very thankful .	0.5270277857780457
+jack and his dog took a rest in the grass .	0.4884963929653168
+bob decided that he needed to learn how to drive his tractor .	0.4012647271156311
+the rock star found himself very confused , later that night .	0.40174031257629395
+ina decided to find a different way to earn some cash .	0.4611239433288574
+kelly was happy about it .	0.6986804604530334
+then i reminded her this was a collaborative group effort project .	0.4833498001098633
+it was a great way to support the team .	0.6555463671684265
+sam almost went into the ditch after swerving .	0.4148876667022705
+unfortunately the grade wasn ' t changed .	0.4038626551628113
+my boss was angry at first , but then he laughed .	0.4919820725917816
+john was glad that there was an ikea nearby him .	0.4729610085487366
+he left work , and immediately took a nap at home	0.4971933364868164
+she put them in a vase and admired them .	0.5053374171257019
+gloria couldn ' t wait to finally start her ' heavenly cupcakes ' store .	0.5000246167182922
+i had to call for a tow truck to come get my car .	0.21830767393112183
+that night , he found eleven constellations !	0.4069833755493164
+kim scored a basket and got a puppy .	0.5526840686798096
+she ran faster than her father winning the race .	0.5413538813591003
+we might go down to shop someday .	0.568865180015564
+the girls thought they were delicious .	0.6349953413009644
+he had to improvise .	0.5003575682640076
+the dresser worked her magic .	0.6042742729187012
+when he is about to ask me he gave me a rose first .	0.4438696503639221
+the watch was psychedelic and shiny , and i cherish it .	0.80634605884552
+jane was forced to tell them they had all been eating tofu .	0.4776453673839569
+tom had become a successful businessman .	0.6951389312744141
+it was just his teen son , but john felt comforted by having the gun .	0.671949028968811
+john went back to the store and bought a better violin .	0.5014680624008179
+but terry was lucky to get away safely .	0.6319652199745178
+jeff moved out of his house shortly afterwards .	0.5823744535446167
+she felt so proud to reach her goal .	0.6638772487640381
+it made her hair even greasier , so she threw it out .	0.6285335421562195
+the water was so cold , i had to get out .	0.3786450922489166
+but jeff did not know how long he could put up with it .	0.41975313425064087
+after a few months the fosters were able to move back into their home .	0.6011672019958496
+diane could not cheer for the rest of the season .	0.36284157633781433
+gina tried to remain calm as she thought of a plan to find her phone .	0.38658952713012695
+she tried it on and it was perfection .	0.7770520448684692
+now no one makes fun of herbert anymore .	0.5776835680007935
+when it fell , the vine also died .	0.34946364164352417
+she calmed all of roy ' s fears !	0.5942035913467407
+he saw the plane and wondered where it came from .	0.4147031009197235
+bob accepted happily and brought his sweet beets with him !	0.7380266785621643
+luckily she then finally got her letter .	0.4572521448135376
+the court ordered a dna test that proved that jerry is the father .	0.39211270213127136
+the city was glad to help , and soon rochester had a new park .	0.6343927979469299
+he had the time of his life .	0.5879172086715698
+cary had to watch netflix on the floor for the night .	0.3840765953063965
+freddy now cruises around town in his new truck .	0.32030272483825684
+they actually have started to sound pretty good !	0.5182545781135559
+the fish had become his favorite entertainment .	0.4929474890232086
+nancy bitterly remembered how hurt she was even fifty years later .	0.5460370779037476
+bob didn ' t care much for the actual content of his packages .	0.5644347667694092
+kim was brought to tears .	0.4769970178604126
+the pie turned out to be delicious !	0.6195465326309204
+he cleaned it and he looked great .	0.6674249768257141
+ike was so happy his car had passed inspection !	0.6803226470947266
+looking back at all the things i did that involves camping .	0.4258601665496826
+tyson had to go to the doctor to cure the infection .	0.3940896987915039
+the brooch became even more special as alyssa fondly remembered her .	0.5863921046257019
+leslie ' s boyfriend punched the other boy in the nose .	0.4924614131450653
+richard and his dad are closer because richard initiated the contact .	0.5204544067382812
+it turned out that the person on the other end was the boy ' s cousin .	0.44889405369758606
+he brought it back to eat it .	0.5892250537872314
+toby was offered a contract to sign to a music label .	0.41726455092430115
+krista decided to finish the paper during dance practice break times .	0.5350888967514038
+janet ' s husband no longer tickles her .	0.5858783721923828
+so she had to cancel the trip and could not go .	0.4455764889717102
+with the coconut oil , it had a whole new taste .	0.5957660675048828
+he practiced his starts using a parachute and beat the other person .	0.5369341969490051
+he was unhappy .	0.2949202060699463
+i am happy he is my friend .	0.6033233404159546
+the company was able to paint lee ' s house the next week .	0.5795111656188965
+he was reimbursed part of his stay .	0.6622961759567261
+finally , she was able to work it out and get her medicine .	0.394950807094574
+this is how i became addicted to laundry detergent brands .	0.3504021167755127
+she even puts everything away .	0.47977855801582336
+the underwater life in the maldives was breathtakingly beautiful .	0.7137787342071533
+he hit his head on a coral and died .	0.3694564700126648
+and kim became a fast typist .	0.4072054624557495
+from then on , ellen stopped pitying herself .	0.4502681791782379
+kirk got in trouble with his dad , and a speeding ticket to boot .	0.4584853947162628
+the class chose the name , edward , for the hamster .	0.4917091727256775
+max lost by one vote and now knows that every vote really does count .	0.6425981521606445
+now she cuts roses every day and gives them to her daughter .	0.5599380135536194
+in truth , olli had been inflating his numbers throughout the contest .	0.5311556458473206
+he came up after 20 minutes and his house was fine .	0.6815689206123352
+i will probably set the date in the summer .	0.5567466020584106
+after the ride , our friend threw up three times .	0.6335145831108093
+we put the jetskis back onto the truck and left .	0.2109057605266571
+jessica was pleased the dinner party was a success .	0.6514148116111755
+now lott spends every night in tim ' s bed .	0.6115205883979797
+joan got off the scale , and saw the number stayed the same .	0.33330488204956055
+the whole pizza was gone after fifteen minutes .	0.35420656204223633
+i can ' t wait to do it again .	0.36255234479904175
+cara is a good big sister .	0.644940972328186
+after getting an a , paul ended up copying for every assignment .	0.25944623351097107
+he crosses the finish line in first .	0.5636964440345764
+tom had a great time .	0.6874056458473206
+he eventually got out .	0.6195766925811768
+she was happy she did .	0.5947985649108887
+the museum had closed while we were still inside !	0.7217019200325012
+afterwards , i went home and was sad .	0.4380881190299988
+he won ' t make that mistake .	0.44346150755882263
+jim yelled at bill and told him he was a cheater .	0.5123178958892822
+billy ' s father bought him the new pair of shoes .	0.5701446533203125
+she ended up being very poor .	0.35288453102111816
+tim ' s mouth was full of blue ink !	0.5200462341308594
+i made fun of charlie , but he took it in stride .	0.5407070517539978
+greg filed a police report and they eventually caught the thief .	0.5990608930587769
+ken almost wept when he saw the bill .	0.4661411643028259
+everything has been fine since	0.7118641138076782
+the puppy was happy again , and jessie had found her new dog .	0.5504592061042786
+allie vowed to never fly commercial again .	0.5072100162506104
+sam was eventually let out when the power came back .	0.5325073003768921
+his girlfriend went through his phone and decided to dump him there .	0.3720950484275818
+now he takes band , instead .	0.4936774969100952
+shad started acting out just so his parents would have to punish him .	0.6745171546936035
+on the last day of summer , he handed marie a handful of free treats .	0.5874001979827881
+he was able to find nice homes to each and every kitten .	0.5644615292549133
+we both got fruit for each other , a funny mistake !	0.5773345232009888
+she can now walk a mile in 15 minutes .	0.4264073967933655
+tom stuffed himself with waffles .	0.5127794742584229
+kevin was later given a health code violation and had to close shop .	0.3867137134075165
+he won another one .	0.5721138715744019
+dina used the credit for a hat instead .	0.5120422840118408
+i was forced to move back in with my parents .	0.46245068311691284
+they felt like she had put a lot of thought into it .	0.6877079010009766
+rob is actually rather senile and plays chess poorly .	0.32843297719955444
+no one seemed to notice the suspect .	0.32284578680992126
+finally when it was time she returned to school .	0.55682772397995
+he said he didn ' t care for history and we never spoke again .	0.5559241771697998
+lance agreed and they finished up at the store .	0.49368056654930115
+they couldn ' t believe how fast it went , riding it ten times that day !	0.398776113986969
+mark had an awful lunch with his boss .	0.3334023654460907
+soon the bird flew out .	0.6201999187469482
+i knew i would go back to them again .	0.531014084815979
+kerry sends passive aggressive texts to her friends afterward .	0.6151400208473206
+sally was excited to tell everyone her romantic engagement story .	0.5182554125785828
+randi put the dress on and ended up having a really great time .	0.643646776676178
+samantha loves the apple cider she gets at the orchard .	0.6075195074081421
+kyle never left any clothes unattended in the laundromat again .	0.6105495095252991
+one of them fell off , hit his head , and died .	0.2150474190711975
+emma realized that she had a lot to learn about horseback riding .	0.4768284857273102
+eventually jane ' s plant died .	0.4719570577144623
+they were luckily they made it alive .	0.454671710729599
+i ended up paying $ 200 dollars for the phone plus a case .	0.3223724961280823
+ann gasped when the store ' s mirror showed her hair dye had washed out !	0.48453187942504883
+that ' s the goal of life .	0.5383767485618591
+then keri took the child for a walk to tire her out .	0.4343523681163788
+casey got nervous and tumbled off of the bike .	0.39689356088638306
+she wished she had listened to her teacher in the first place .	0.5645301342010498
+i wonder if she saw me .	0.5067726373672485
+the girls remained best friends even with the distance .	0.6098188161849976
+he fixed her dryer and grandma was happy .	0.592280387878418
+she kept them for a long time .	0.5793284177780151
+justin got an a on his project .	0.7005990147590637
+now they are friends again .	0.49789169430732727
+he swore never to eat it again and continued on with his life .	0.49759238958358765
+they took turns riding down the hill on eric ' s new sled .	0.41667431592941284
+linda and her boyfriend ended up getting both .	0.4343297481536865
+our mother was unhappy to see her tomatoes splashed across our shirts .	0.3871501684188843
+jessica was relieved when the storm had passed .	0.661074161529541
+they realized that they were overreacting and were going to be fine .	0.607446014881134
+lori ' s chili was extra spicy .	0.5680578351020813
+jeff lied to customer service and said it was packaged incorrectly .	0.5501378178596497
+luckily , there was no damage to either car .	0.3262336552143097
+tyler grabbed a letter with a big smile .	0.7058656811714172
+they bought the fryer and ended up saving a lot of money in the end .	0.5640543103218079
+nobody ever claimed it .	0.34414511919021606
+he reluctantly drank the juice .	0.6237931251525879
+it wasn ' t until midnight that the police told him of the accident .	0.5401884913444519
+the police arrive and thank blaine for helping the woman .	0.5014906525611877
+i learned how to skate .	0.6562260985374451
+it is amazing what little kids love to watch .	0.7125831246376038
+he quickly tried to make an excuse for why she ' s there .	0.2910255789756775
+i bought her a dog .	0.5784913301467896
+carly returned to work .	0.4258997440338135
+unfortunately none of them did .	0.35645949840545654
+the following morning she felt much better .	0.6118723750114441
+by the end of the cleanse , she felt like a new person .	0.6372164487838745
+thankfully i will see it again soon .	0.7430098652839661
+now phil works even harder .	0.6283926963806152
+jake was the champion of the balance beam !	0.6425730586051941
+the group giggled but ronald learned quite a few things .	0.6155428290367126
+teresa is thankful for technology so she can see her sister .	0.4434969425201416
+sam ' s teacher moved sam into the gifted program at school .	0.5394243597984314
+his friend had to be rushed to the hospital .	0.25860533118247986
+when he flies back to new york city , francisco feels homesick .	0.3810022473335266
+everyone managed to escape before the ship sunk .	0.5320324301719666
+we were relieved to get off the trolley .	0.5318346619606018
+tom eventually started wearing deodorant .	0.4581385552883148
+jose spent a lot more money to fix the tile floor .	0.4079250693321228
+tim was ultimately told to stop .	0.43288660049438477
+the whole office heard me listening to celine dion classics !	0.6073861122131348
+he was eventually found out and fired by the law firm .	0.4228452146053314
+kim had a wonderful time and didn ' t want to leave !	0.7755670547485352
+they had greasy fingers from all the butter .	0.553827702999115
+frank told me he felt she was brushing him off .	0.4534282684326172
+he is a fantastic chef .	0.7779647707939148
+ben was so proud of his new wheels !	0.6367716193199158
+the neighborhood was very kind to him that night .	0.4776255190372467
+liza ' s family was proud .	0.6535870432853699
+buster always leaves a note when he leaves the house now .	0.5776617527008057
+the succulent garden she planted looked great .	0.5097829699516296
+he decided on a new book .	0.43776336312294006
+he threw out all his old shirts when they arrived .	0.4932940602302551
+her night was already ruined .	0.3354187607765198
+matt won the game and was happy .	0.6232026219367981
+sam decided to get a burrito instead .	0.40057873725891113
+gina happily stopped at the store to buy the milk .	0.5083893537521362
+she formed her own cheer group from her fellow friends and family .	0.5889187455177307
+the next day he got an all clear and was flying high again .	0.5912343263626099
+the alarm was set for 9 pm instead of 9am .	0.35429632663726807
+the rest of the table decided to quit the game as well .	0.6186004281044006
+so he ate several plates of food despite trying to be healthy .	0.2234032154083252
+luckily she was able to get medicine that helped .	0.4953916370868683
+unfortunately it lasted no more than a few hours before the dog got it	0.3370973467826843
+however , lo and behold , come election time , donald would be elected	0.6064800024032593
+they had a delicious dinner at the local pizzeria instead .	0.5372727513313293
+the barn cats rushed over to clean it up .	0.36667919158935547
+it ' s only years later that maria made real durable friends .	0.5073511004447937
+when i looked at my creation i was proud .	0.6103724837303162
+while online , he finally found and bought the coin he was looking for .	0.6313908100128174
+her mom wasn ' t concerned and walked away .	0.26742151379585266
+this causes john to lose lots of good friends .	0.6964507699012756
+she said it was the best vacation ever !	0.6826068162918091
+corey passed his friend after fifteen minutes .	0.39321011304855347
+the police found a bow and arrow set in pam ' s neighbor ' s yard .	0.608636736869812
+but when they finally arrived , he saw they were at the zoo after all !	0.43953439593315125
+the front part of the car got mashed from it .	0.6647807359695435
+he discovered his entire head was infested with a bunch of lice !	0.4909811019897461
+jason bought a dog .	0.5625109672546387
+lonny bought a bunch of gift shop trinkets of the lion statue .	0.6526082158088684
+stan sleeps well from now on .	0.6158527135848999
+at the completion of the round bill was in the top ten !	0.5918225646018982
+they were all blown away !	0.5671003460884094
+when his cousin walked past the wall , he jumped out and scared him .	0.3944184184074402
+but when she tries to squeeze through the hole , she gets stuck !	0.38637059926986694
+they gave the boy from korea a new home .	0.5610933899879456
+he called his parents for help .	0.5822588205337524
+he was relieved to find that santa didn ' t disappoint him .	0.542854905128479
+he gave the woman some tissue .	0.4507136940956116
+luther gets left at the movies .	0.601060688495636
+i gave him the middle finger and he fired me .	0.39947959780693054
+becky started her own foundation .	0.3612833023071289
+a lot of customers were disappointed their favorites were out of stock .	0.5094395279884338
+max later regretted the loss of his unique name .	0.421690970659256
+from then i was very confused about the severity of the word idiot .	0.3576458990573883
+barry was glad with his decision to dress as a zebra .	0.36881446838378906
+darren was so happy when she said yes .	0.4710928797721863
+they painted together every week until teresa ' s grandma died .	0.536230206489563
+mike left for his appointment .	0.4078257381916046
+sara was then able to stop by and get food .	0.5480453968048096
+she loved to feel the burn .	0.6475164890289307
+laura cancelled her date with nick and went to meet her sister .	0.44370657205581665
+and rick ended up having a terrible party .	0.46439599990844727
+when the other dentist told her she had no cavities , teresa was happy !	0.46922793984413147
+christy will never try to go to the store on sunday again .	0.45937761664390564
+sarah was forever glad she didn ' t wait any longer .	0.385714590549469
+they were both given f ' s and had to retake the class next semester .	0.6792676448822021
+i ended up cleaning the entire house from the energy .	0.5144256353378296
+the girls left the restaurant with full bellies .	0.5275306701660156
+megan ' s baby will crawl very soon .	0.48189979791641235
+bernie had a wonderful time at the circus with his mom .	0.7527452111244202
+now he is more careful whenever he visits that pier .	0.5513483285903931
+luckily , her neighbor offered to share some food .	0.4890318512916565
+kim was shocked and ran off the carpet to get cleaned .	0.37725090980529785
+finally , he too , turned and walked away .	0.30140799283981323
+he could tell that his helmet was the only thing that had saved him .	0.4051132798194885
+i later learned it was a heart attack , and my prompt action saved me .	0.5435314774513245
+greta was very sad , but her parents cheered her up .	0.5509701371192932
+absolutely nothing happened .	0.31383180618286133
+he spent all evening cleaning it as best he could .	0.6431591510772705
+john walked back home , feeling defeated .	0.4573475122451782
+he left the garage , feeling silly about his absent mindedness .	0.3390677571296692
+micheal deleted his account from okcupid .	0.608932614326477
+after doing his recommendation , i thanked him for his kindness .	0.7192842364311218
+finally kelly ' s father gave the store to her to run on her own .	0.5721467137336731
+steven felt a lot better after winning games !	0.6113178133964539
+his dog chased away at the squirrel afterwards .	0.26122117042541504
+she brought the plate of brownies to him and he smiled .	0.5702997446060181
+the banks scrambled for stabilization .	0.6652598977088928
+he kept that dog for over a decade .	0.517848551273346
+i was pleased they had arancini , and ordered two plates .	0.5366840958595276
+the other cowboys quit making fun of him .	0.4622974991798401
+he bought a lot of beanie weenies .	0.6955211162567139
+embarrassed , susan stood up and went to her class .	0.26862984895706177
+sasha and kristian are wonderful together .	0.7542905211448669
+clumps started falling out and caren learned her lesson .	0.5551944971084595
+she asked her friend , greg , to bring food to her house .	0.534020721912384
+marcus relaxed once they were in the air .	0.5367146134376526
+robert had killed the dog with his kick .	0.5086844563484192
+then realized it was blowing hot air .	0.46330690383911133
+that ' s why i ' m asking to borrow your phone .	0.45922765135765076
+but eric was too tired from the noise and he slept through them all .	0.41689813137054443
+it has been a very counterproductive undertaking .	0.4147568345069885
+the game was fun .	0.5726553797721863
+she had been accepted on the team but hadn ' t told anyone .	0.6399893164634705
+ken ' s plants died .	0.4189046025276184
+when she opened the door , there was a bouquet of roses on her step .	0.5512552857398987
+i felt puzzled when i woke up .	0.47217878699302673
+sarah discovered dusty ' s favorite food was canned wet food !	0.3991096615791321
+she beat me .	0.6146687269210815
+it was a great way to feel young again .	0.6820592284202576
+they had to be rescued by helicopter from the roof of the house .	0.43122923374176025
+when all of my friends arrived , they were finished and delicious .	0.5486636161804199
+what an exciting game , i ' m glad i went .	0.5595389604568481
+the taste was impeccable .	0.6027182936668396
+she was even sicker than before .	0.4090624153614044
+unfortunately , i had to finish the entire haircut using scissors .	0.25528496503829956
+last week , i gave $ 5 to a homeless lady , she didn ' t ask me for money .	0.4950430393218994
+the driver drove off shaken , but unhurt .	0.47496864199638367
+her friends would remind her that she ' s changed a lot .	0.5550011992454529
+he loves it because humans don ' t have buzzers .	0.44245970249176025
+i ended up with a concussion and bloody nose .	0.41750943660736084
+they had a class teaching the hindu creation story .	0.6430347561836243
+then anna released them to rejoin their parents !	0.5093435645103455
+kay was overjoyed when her friend allowed her to wear her sunglasses .	0.4489271342754364
+the clerk at the gas station guided her on her way .	0.5248697400093079
+when tryouts began , the boy was prepared .	0.4869183301925659
+it had spoiled sitting out of the refrigerator .	0.5878133773803711
+the dog then left with a full stomach .	0.38243016600608826
+she was fired on the spot .	0.5346757173538208
+mike conceded and his happy that he stayed at his job .	0.6306470036506653
+unfortunately , she wasn ' t chosen because she studied the wrong play .	0.2961466312408447
+finally , stephanie graduated and was able to become a spy .	0.5738192200660706
+she suggested tying the tent up to trees , and it worked !	0.4861055910587311
+he decided to invest all of his college money to a charity in africa .	0.3054963946342468
+julia loved pouncing on her stuffed animals as if she got a catch .	0.6158972382545471
+tracey shrugged off her fall .	0.44143861532211304
+annie was soaking wet and had to go home to change .	0.3988386392593384
+after winning money from his lawsuit , he no longer needed a job .	0.5076655149459839
+her family was happy to have her back .	0.6433040499687195
+when she talked she was asked to leave .	0.46232980489730835
+and by fall she had the biggest garden she ever had .	0.45016956329345703
+joe was sad , and ate all of his troubles away .	0.3964504599571228
+when he was able to see again , he gave alexis detention .	0.4172006845474243
+the announcement said there had been an earthquake !	0.46024245023727417
+the two then went for a walk in the park .	0.39295494556427
+we recognized each other instantly .	0.38537779450416565
+they gave him his second burger for free .	0.3366554379463196
+eva was happy with her life choice .	0.7163475751876831
+jamie realized she was out of the key ingredient , chicken .	0.5320370197296143
+ed decided rice was not so gross after all .	0.4017043113708496
+amy was happy when the manager told her she could start next week .	0.628433346748352
+my wife had shaken up my soda .	0.3423313498497009
+i was happy about the new project .	0.6338164806365967
+with a smile , she graciously accepted his offer .	0.6273224949836731
+she was happy because she made $ 500 that day .	0.6168177723884583
+he had to go to summer school .	0.5132805109024048
+he was able to take the car ' s parking spot .	0.5915145874023438
+his friends showed up and the party went well .	0.3928430378437042
+i went to his funeral and cried some more .	0.48757779598236084
+now , we have much less arguments than before .	0.3727755546569824
+kassie and her grandma had the best days together .	0.7011476159095764
+amber was disappointed that she lost to a new comer .	0.3618835508823395
+my parents were never this loud and annoying .	0.21069875359535217
+he threw the young sapling into a nearby ditch .	0.4981175363063812
+gertrude left it there all year and became the toilet paper lady .	0.386148601770401
+shawn played the rest of the day and night .	0.5883903503417969
+her friends applauded her poem .	0.6026565432548523
+they played a great show .	0.7565986514091492
+i spent the rest of the day worrying for nothing .	0.4600878655910492
+afterwards she tasted it and it tasted good .	0.5967531800270081
+tom followed them and likes his windows much more now .	0.5636909008026123
+she knew her family wouldn ' t eat tofu .	0.7242475152015686
+that helped evan start sleeping through the night .	0.5232579708099365
+when she protested , kevin showed her the photo of her old boyfriend .	0.39524126052856445
+pam finally bought the house .	0.5758395791053772
+james was able to pass his art class with flying colors .	0.6172519326210022
+she is in the first row , so now he knows everything will be fine .	0.6670263409614563
+i lit the kindling with a match to get the fire going .	0.5811243653297424
+they all went together in a group !	0.5500667691230774
+she walked the dog for thirty minutes .	0.4053565263748169
+baby smiles at the kids , they smile at him too , great morning .	0.6727712750434875
+i went out to the driveway for one last dance .	0.5078344345092773
+he had forgotten but headed toward her right away .	0.7271853685379028
+after that , scott was a lot more comfortable .	0.5072165131568909
+vexed but forgiving , she decided to cheerfully do them herself .	0.4798834025859833
+the university that graduated her heralded her as an astronaut .	0.5684720873832703
+after she finished her sandwich , sally was full .	0.4637495279312134
+two weeks later , frank met the big sister he never knew he had .	0.5688554048538208
+he feels happy that he has improved how his apartment feels .	0.6663484573364258
+gwen felt so happy after getting her new prosthetic .	0.6416888236999512
+within a week they had sold twenty five hats .	0.5080228447914124
+he was surprised to find they ' d made an accurate forecast for once .	0.5611785650253296
+i sadly watched my parents going on the roller coaster .	0.3352687358856201
+after dating for a year karen married andy .	0.25924885272979736
+johnny paid his rent and had extra money left over	0.3259652256965637
+i was arrested when the plane landed .	0.4821559190750122
+she traveled all over the united states on a tour bus .	0.5358055830001831
+amy knew she had impressed her big sis as stella left smiling .	0.694555938243866
+tim was satisfied .	0.5215898752212524
+marsha began to replace her popped tire .	0.4281494915485382
+barry was glad that he made it through the blackout .	0.3976086378097534
+jeremy ran home , fearing being arrested .	0.3486242890357971
+he crashed and caused his own wreck causing him to be late .	0.5815265774726868
+it was a raccoon looking for food .	0.6351814866065979
+the restaurant manager apologized and gave her a gift card .	0.5240538716316223
+it was a great time !	0.7946913242340088
+that was their favorite meal !	0.6133333444595337
+she had used too much baking soda .	0.4126083254814148
+ryan ' s mum took him to his favourite place to get his basket .	0.507595419883728
+phil was thirsty and accepted the drink .	0.428738534450531
+eventually , emily just straight out bought a new armchair .	0.2780798077583313
+he felt better after consuming them .	0.6742262840270996
+his parents were impressed .	0.6104465126991272
+eventually it fell over without hurting anybody .	0.34131842851638794
+he woke up when the plane landed	0.506150484085083
+his dad shared his sandwich with him .	0.5065493583679199
+jules had to get creative but it all turned out great .	0.6544289588928223
+he plugged them in and jammed out .	0.3504900336265564
+other then that , it went great .	0.5897442102432251
+leslie decided to call in a professional to help her .	0.6131128668785095
+he told me that he would give me a one - week extension .	0.3542288541793823
+finally , she realized that she could find it online and looked it up .	0.2788587212562561
+many kids are laughing at whitney ' s acting skills .	0.6757380962371826
+finally , she put the dress on and smiled at her beautiful reflection !	0.6937549114227295
+his mother gave him brass knuckles to use next time .	0.5290306806564331
+finally , the ride started working again .	0.6738300919532776
+tom ' s shoes looked almost like new .	0.46312960982322693
+her masterpiece remained intact for three weeks after that .	0.5605862140655518
+then , her mom offered to pay the extra amount .	0.44381117820739746
+aya waited with anticipation .	0.6532268524169922
+she told the authorities he had kidnapped her .	0.571243941783905
+amy ' s hair was soaked when she got to school .	0.6158931851387024
+the cat has been a member of their family ever since .	0.6770152449607849
+the boat sailed far away into the sea .	0.38735729455947876
+she had received an a on her final .	0.6644885540008545
+i spent the rest of the day relaxing and watching raindrops .	0.5365175604820251
+we never found him .	0.42691749334335327
+i really hope his album comes out .	0.5712363719940186
+she would look at it longingly and wish she could see them again .	0.583408534526825
+lance went too far this time and had to be fired .	0.3540564179420471
+dorothy was heartbroken .	0.39632245898246765
+the doctor gave jackson some medicine to make him feel better .	0.400160014629364
+as i got older i never stopped listening to them .	0.3650665879249573
+hilda thrived with other senior citizens .	0.557056188583374
+it ended up being a great time for all .	0.6131557822227478
+at the end of the day , she was tired but content with the hike .	0.5098682045936584
+she then spent that night creating her costume from scratch .	0.5046181082725525
+he managed to pull it out after an hour .	0.5097746849060059
+the family decided to run back inside .	0.5375118255615234
+donna had a much easier time because ty was asleep .	0.37553584575653076
+ann and bill had a wonderful adventure .	0.8122556209564209
+at the party , everyone raved about the cake .	0.26813751459121704
+martin enjoyed the ride so much he rode it 10 times that day .	0.6806629300117493
+tiffany basically ruined the christmas get together with her mistake .	0.420534610748291
+rhoda wished she hadn ' t sped .	0.5037704110145569
+ed did a better job of putting his toys away after that .	0.5297824144363403
+after diving off the platform , gwen saw why a one - piece made sense .	0.3252347707748413
+the cat ran away .	0.4370121657848358
+they ate the messed up cake happily , and it was delicious !	0.8599189519882202
+paul was never allowed to play on his school team again /	0.39464637637138367
+and after finding his friends , he became sick .	0.5465905666351318
+they didn ' t even get to do the other things they had planned .	0.41525161266326904
+she could not fit it in .	0.30941522121429443
+the day arrives and the trip begins .	0.5111123323440552
+after seeing the petition the principal changed the dress code .	0.5746707916259766
+her parents take her car away and shelby is depressed .	0.22900179028511047
+it was a diamond ring with gold surrounding it .	0.30385273694992065
+luckily he had a warranty to replace it .	0.3965705633163452
+i laughed , and chose not to disturb him .	0.5880700349807739
+when he explained they forgave him and left him to rest .	0.33016639947891235
+the store owner rewarded james with a small gift and said goodbye .	0.5482990145683289
+he helped with the crib .	0.5727754235267639
+chris and her mom went to the garage sale when it was held .	0.4045477509498596
+jenny ' s happiness faded quickly .	0.5077421069145203
+now he can ride his bike anywhere he wants to .	0.6619879603385925
+the doctors told jenna her mother had passed away .	0.50970059633255
+his friends called a cab for eddie .	0.6089799404144287
+he sailed into the center and felt at peace .	0.6457773447036743
+john was embarrassed and vowed to never fall asleep again .	0.31517982482910156
+her friends ended up loving it .	0.5350807309150696
+mary ended up cherishing her socks forever .	0.47448480129241943
+they bought every last one of barry ' s baskets !	0.7180981636047363
+my father whipped me with a belt for the first time .	0.526579737663269
+she got fined for contempt to the court .	0.524824321269989
+i love walking with my friends .	0.5997065305709839
+then beatrice drove away in someone ' s car .	0.31663721799850464
+finally he let them pet his ear .	0.612106442451477
+she hasn ' t touched the stove since .	0.6502379775047302
+the man discarded the bad ideas .	0.22169703245162964
+kim could not have been more relieved .	0.4317888617515564
+joe talks to the girl again and gets her number .	0.5940471887588501
+now her whole house is cool this summer .	0.6770427227020264
+the crowd understood that the ball was the key .	0.4341951012611389
+and oscar decided to never give money to beggars anymore .	0.34032130241394043
+now bob ' s name is jack .	0.5426470637321472
+same tried other records and realized the player wasn ' t the problem .	0.3063672184944153
+he had to admit that dvd ' s were a lot better .	0.34801045060157776
+the water nearly ruined the leather .	0.2904226779937744
+he won the world record !	0.5185832977294922
+dan was proud when he saw his name on the team ' s roster .	0.5433666110038757
+the kids cried to stay and play .	0.6463606357574463
+then he punched the window and broke it !	0.46919459104537964
+the two agreed that it seemed great and got to work .	0.3958275616168976
+with a final move pedro put him in checkmate .	0.6065658330917358
+martha was very proud of her accomplishment .	0.7062444686889648
+he ' d never forgot all the things he learned from her .	0.37892627716064453
+they beat it after 10 hours of playing .	0.5253416299819946
+austin ' s mouth instantly felt better after he used the medication .	0.6567480564117432
+she pushed the tooth and off it came .	0.7014851570129395
+the police officer told her to leave him alone .	0.5855405330657959
+the next day i found an envelope with $ 10 in it stuck under the door .	0.5234371423721313
+he no longer felt hungry .	0.5105594396591187
+castillo saved his money and bought the hat .	0.5029475092887878
+amy saw jim had made and checked a third box , for maybe .	0.5269390344619751
+sam showed off his new trick and won first prize at the show .	0.4535071849822998
+beth ' s performance earned her a standing ovation .	0.68134605884552
+jen and larry are now seeing each other outside of work .	0.47562724351882935
+however , he fell asleep on the couch and woke up in the morning .	0.3629753589630127
+so long blueberries , we had a good time .	0.5546988844871521
+i decided to head to starbucks instead .	0.453066349029541
+christian took the cake to school and everyone enjoyed it .	0.7017856240272522
+he drew a perfect character design and the game company loved it .	0.8567290306091309
+later on , she meets a handsome gentleman .	0.6356364488601685
+he joined a group of nomads there and lived his new life .	0.745381772518158
+jane promised she would listen to her mom from then on .	0.52507084608078
+lloyd couldn ' t believe it wasn ' t there !	0.5562757253646851
+quentin was happy to be learning to play fiddle .	0.6152361035346985
+but the look in their eyes said they were absolutely not leaving .	0.3445551097393036
+jim sold the ring for 1000 dollars .	0.5643483996391296
+then i take a deep breath and head into the test center .	0.5603204369544983
+instead , they used a card from a different game .	0.3787984251976013
+he caught a five pound catfish !	0.6045596599578857
+i was in so much pain .	0.26638004183769226
+his date left disgusted !	0.39862218499183655
+the owner sells bruce the beach house .	0.44364988803863525
+a giant muskrat leaps out and scares him .	0.49001508951187134
+she broke up with him .	0.5430065989494324
+when he left , erica decided to go travelling herself .	0.3808841407299042
+art decided it was worth it to have such an amazing tv .	0.5283660292625427
+portia picked out a pomeranian , finally getting her birthday wish .	0.5846632719039917
+all my hard work was gone and i ended up failing that semester .	0.29660630226135254
+lynn ' s husband is in the parking lot trying to fix the hose now .	0.46898379921913147
+james fell head over heels for natalie , who reciprocated the feelings .	0.4267812669277191
+i ended up in 11th place and just missed the cut .	0.3507997393608093
+she slept on the floor , feeling resentful of the toys .	0.4538479745388031
+once in his room pablo had a heart attack from fright .	0.6072403192520142

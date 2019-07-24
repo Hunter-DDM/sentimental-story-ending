@@ -1,0 +1,22 @@
+data: './data/'
+logF: 'experiments/transfer/'
+epoch: 70
+batch_size: 32
+optim: 'adam'
+cell: 'lstm'
+attention: 'simple'
+learning_rate: 0.0003
+max_grad_norm: 5
+learning_rate_decay: 0.9
+start_decay_at: 30
+emb_size: 256
+hidden_size: 512
+emotion_types: 5
+domain_types: 2
+enc_num_layers: 3
+bidirectional: True
+dropout: 0.5
+eval_interval: 3000
+save_interval: 1000
+metrics: ['MSEloss', 'ROC_domain_accuracy', 'SST_domain_accuracy']
+unk: True
