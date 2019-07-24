@@ -108,3 +108,16 @@ There are three directories for our three proposed methods.
 5. test sentimental generator
 
         python3 train.py -mode eval -gpus 1 -config story.yaml -restore ./experiments/story/sentimental_generator/checkpoint.pt -log sentimental_generator
+
+## PROVIDED CHECKPOINTS
+
+ We provided five checkpoints of this project. you can download them from:
+ 
+ https://drive.google.com/open?id=1VPopk1F_3e3KkDQ2BcnKSG4KDJHlKCUw
+ 
+ DA_SA is the checkpoint of sentiment analyzer for model "SIC-Seq2Seq + DA"
+ RM_SA is the checkpoint of sentiment analyzer for model "SIC-Seq2Seq + RM"
+ DA_SG is the checkpoint of sentimental generator for model "SIC-Seq2Seq + DA"
+ RM_SG is the checkpoint of sentimental generator for model "SIC-Seq2Seq + RM"
+ RB_SG is the checkpoint of sentimental generator for model "SIC-Seq2Seq + RB"
+
