@@ -111,7 +111,7 @@ There are three directories for our three proposed methods.
 
 ## PROVIDED CHECKPOINTS
 
- We provided five checkpoints of this project. you can download them from:
+ We provided five checkpoints of this project. You can download them from:
  
  https://drive.google.com/open?id=1VPopk1F_3e3KkDQ2BcnKSG4KDJHlKCUw
  
