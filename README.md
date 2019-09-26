@@ -125,3 +125,16 @@ There are three directories for our three proposed methods.
  
  RB_SG is the checkpoint of sentimental generator for model "SIC-Seq2Seq + RB"
 
+## Citation
+
+If you use this code for your research, please kindly cite our paper:
+
+```
+@inproceedings{luo2019learning,
+  title={Learning to Control the Fine-grained Sentiment for Story Ending Generation},
+  author={Luo, Fuli and Dai, Damai and Yang, Pengcheng and Liu, Tianyu and Chang, Baobao and Sui, Zhifang and Sun, Xu},
+  booktitle={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+  pages={6020--6026},
+  year={2019}
+}
+```
